@@ -1,0 +1,1 @@
+"Extract Variable" is a refactoring technique where you take an expression that's hard to understand and put its result into a variable that is then used instead. This new variable can be named in a way that explains the purpose of the expression, making the code easier to understand.

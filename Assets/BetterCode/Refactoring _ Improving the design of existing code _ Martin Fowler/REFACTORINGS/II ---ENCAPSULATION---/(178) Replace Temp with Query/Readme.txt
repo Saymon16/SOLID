@@ -1,0 +1,1 @@
+"Replace Temp with Query" is a refactoring method that replaces a temporary variable calculated once with a method that can perform the calculation. This technique reduces the need for temporary variables and makes it easier to understand what the calculation means, particularly if the method name is descriptive.

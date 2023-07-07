@@ -1,0 +1,3 @@
+"Encapsulate Record" is a refactoring method that is typically used when we have data in a structure like a record or a simple data transfer object (DTO) and we want to encapsulate that data with behavior.
+
+When you have a structure with public fields (or properties), any code can access and mutate the data stored in these fields directly. Encapsulating the data within a class with private fields and public accessors (getters and setters) allows you to control how this data is accessed and manipulated, and it also allows you to attach behavior to it.

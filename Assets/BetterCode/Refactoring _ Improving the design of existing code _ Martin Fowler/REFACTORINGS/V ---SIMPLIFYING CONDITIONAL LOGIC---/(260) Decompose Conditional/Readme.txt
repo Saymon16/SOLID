@@ -1,0 +1,1 @@
+The "Decompose Conditional" refactoring is about simplifying complex conditional logic to make the code easier to read and understand. This refactoring is usually achieved by extracting the condition into its own method and/or by extracting the then and else blocks into their own methods.

@@ -1,0 +1,1 @@
+"Combine Functions into Class" is a refactoring technique that involves taking a set of related functions and grouping them into a class. These functions likely share common variables or data, which can be transformed into class-level state (fields or properties).

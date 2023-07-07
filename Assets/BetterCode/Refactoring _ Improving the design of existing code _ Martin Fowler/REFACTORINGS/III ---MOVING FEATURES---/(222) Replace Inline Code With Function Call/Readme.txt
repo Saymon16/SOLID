@@ -1,0 +1,1 @@
+The "Replace Inline Code with Function Call" refactoring technique is useful when you have a block of code that you can replace with a call to a function. This refactoring technique helps you remove code duplication and increase code readability.

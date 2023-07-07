@@ -1,0 +1,1 @@
+The "Collapse Hierarchy" refactoring technique is used when a subclass and a superclass are not very different from each other. In such cases, it can be beneficial to eliminate the inheritance hierarchy by merging the subclass and the superclass into one class. This can simplify the code and make it easier to understand and maintain.

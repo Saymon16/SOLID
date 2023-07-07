@@ -1,0 +1,1 @@
+The "Rename Field" refactoring technique is about renaming a field in a class to make its purpose more clear. It's a simple but powerful way to improve code readability and maintainability.

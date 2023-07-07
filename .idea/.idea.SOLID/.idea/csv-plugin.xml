@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\Assets\1) Single Responsability Principle\1_After\_1_A_BoatHealth.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\1) Single Responsability Principle\1_After\_1_A_PlayerUI.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\1) Single Responsability Principle\1_Before\_1_B_Boat.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\1) Single Responsability Principle\1_Before\_1_B_Player.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\2) Open Closed Principle\2_After\_2_A_BaseWeapon.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\2) Open Closed Principle\2_After\_2_A_FlameThrower.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\2) Open Closed Principle\2_After\_2_A_Player.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\2) Open Closed Principle\2_After\_2_A_Weapon.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\2) Open Closed Principle\2_Before\Weapon.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\2) Open Closed Principle\DummyTarget.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\4) Interface Segregation Principle\4_Before\_4_B_Bird.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\4) Interface Segregation Principle\4_Before\_4_B_Human.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\4) Interface Segregation Principle\4_Before\_4_B_ICharacter.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\Chain of Responsability pattern\After\CombatEffectHandler.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\Chain of Responsability pattern\Before\CombatSytem.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\E) Factory pattern\E_After\EnemySpawner.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\F) Pooling pattern\F_After\Bullet.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\F) Pooling pattern\F_Before\Bullet.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\Flyweight pattern\After\Bullet.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\Flyweight pattern\Before\Bullet.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\G) Decorator pattern\G_After\Character.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\G) Decorator pattern\G_After\PlayerController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\G) Decorator pattern\G_Before\Character.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\G) Decorator pattern\G_Before\PlayerController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\I) Facade pattern\I) After\GameLoader.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\J) Prototype pattern\J) After\Enemy.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\J) Prototype pattern\J) Before\Enemy.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\K) Adapter pattern\K) Before\PlayerController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\M) Composition pattern\M) Before\MovingObject.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\Visitor pattern\After\Animal.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\Visitor pattern\After\AnimalVisitor.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Design Patterns\Visitor pattern\Before\Zoo.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring _ Improving the design of existing code _ Martin Fowler\(350) Pull Up Method\Character.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring _ Improving the design of existing code _ Martin Fowler\(361) Push Down Field\Character.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring _ Improving the design of existing code _ Martin Fowler\SMELLS\Duplicated Code\Player.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(106) Extract Function\PlayerController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(144) Combine Functions into Class\PlayerController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(162) Encapsulate Record\PlayerData.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(170) Encapsulate Collection\PlayerData.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(174) Replace Primitive with Object\PlayerData.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(213) Move Statements into Function\GameController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(227) Split Loop\Player.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(231) Replace Loop with Pipeline\GameController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(252) Change Reference to Value\Color.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(252) Change Reference to Value\Velocity.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(263) Consolidate Conditional Expression\Player.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(266) Replace Nested Conditional with Guard Clauses\Player.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(272) Replace Conditional with Polymorphism\Character.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(324) Replace Parameter with Query\Enemy.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\(334) Replace Constructor with Factory Function\Spawner.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\CommonCode.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\BetterCode\Refactoring\ExtractFunction(106)\After\PlayerController.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\Design Patterns\B) Observer pattern\B_PlayerHealthAfter.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\Design Patterns\C) Command pattern\C_Before_PlayerMoveUndo.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assets\Design Patterns\D) State Machine pattern\D_After_IState.cs">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

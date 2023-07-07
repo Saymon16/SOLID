@@ -1,0 +1,1 @@
+The "Push Down Method" refactoring technique is used when a method in a superclass is only relevant for certain subclasses. In such cases, it makes more sense to "push down" the method into the subclasses where it's actually used. This helps in improving code organization and clarity.

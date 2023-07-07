@@ -1,0 +1,1 @@
+The "Replace Nested Conditional with Guard Clauses" refactoring pattern aims to improve the readability of code by reducing the amount of nested conditionals (if-else statements). The basic idea is to return early from a method if certain conditions are met.

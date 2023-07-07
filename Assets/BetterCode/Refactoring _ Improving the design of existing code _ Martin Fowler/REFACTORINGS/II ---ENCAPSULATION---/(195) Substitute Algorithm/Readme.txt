@@ -1,0 +1,1 @@
+"Substitute Algorithm" is a refactoring technique used when you need to replace an algorithm with a more efficient or clearer one.

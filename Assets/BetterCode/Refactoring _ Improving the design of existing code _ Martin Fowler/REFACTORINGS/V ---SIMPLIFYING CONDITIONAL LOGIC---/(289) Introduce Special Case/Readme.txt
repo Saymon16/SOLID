@@ -1,0 +1,1 @@
+The "Introduce Special Case" refactoring technique is about creating a subclass, a subclass instance, or a singleton object to handle exceptional behavior or a special case that is outside of the normal flow. This technique is a way of making your code cleaner and more readable.

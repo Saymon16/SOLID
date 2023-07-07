@@ -1,0 +1,3 @@
+"Combine Functions into Transform" is a refactoring technique used when you have a group of functions that are tightly coupled around some data. This usually involves transforming the data in various ways. In these cases, instead of passing the data from function to function, it can often be more readable and maintainable to create a class that wraps the data and provides methods for transforming it.
+
+This technique is related to "Combine Functions into Class" (144), but it specifically focuses on cases where the data is being transformed, rather than just operated on.

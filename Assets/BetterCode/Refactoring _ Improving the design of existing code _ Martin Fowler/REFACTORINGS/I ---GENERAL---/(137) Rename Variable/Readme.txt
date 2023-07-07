@@ -1,0 +1,1 @@
+"Rename Variable" is a refactoring technique that involves changing the name of a variable to better reflect its purpose or the data it holds. This can make code easier to read and understand. This is a simple but often very effective way to improve code readability.

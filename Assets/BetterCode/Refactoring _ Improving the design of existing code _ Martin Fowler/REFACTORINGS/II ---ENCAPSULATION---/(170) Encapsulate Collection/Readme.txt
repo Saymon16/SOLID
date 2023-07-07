@@ -1,0 +1,3 @@
+"Encapsulate Collection" is a refactoring method where you provide methods to manipulate a collection directly instead of allowing clients to directly access or manipulate the collection.
+
+This technique gives you more control over the collection. You can decide how it's manipulated and add additional logic if necessary, like checking values before they're added or taking action when a value is removed.

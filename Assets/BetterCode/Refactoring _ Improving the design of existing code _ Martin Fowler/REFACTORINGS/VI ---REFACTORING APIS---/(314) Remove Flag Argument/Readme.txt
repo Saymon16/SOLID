@@ -1,0 +1,1 @@
+The "Remove Flag Argument" refactoring method is about removing boolean or enumeration arguments from a function, and replacing the function with distinct methods for each behavior. Flag arguments are problematic as they make a function do more than one thing, complicating the understanding and potentially leading to unwanted side effects.

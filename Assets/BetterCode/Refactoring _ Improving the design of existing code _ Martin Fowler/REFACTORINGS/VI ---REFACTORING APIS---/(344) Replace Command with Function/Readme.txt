@@ -1,0 +1,1 @@
+The refactoring technique "Replace Command with Function" is used when a command object has grown too complicated or you don't need the additional flexibility provided by commands. By switching back to a simple function, you can simplify the code and improve readability.

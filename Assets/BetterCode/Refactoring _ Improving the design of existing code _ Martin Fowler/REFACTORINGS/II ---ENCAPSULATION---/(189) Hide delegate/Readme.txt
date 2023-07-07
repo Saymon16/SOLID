@@ -1,0 +1,3 @@
+The "Hide Delegate" refactoring technique is used when a client is making a request to an object, which then delegates the request to another object. This means that the client needs to be aware of the delegation, creating a dependency that might not be necessary.
+
+If you encapsulate the delegation within the original object, the client doesn't need to know about the delegation, which can make the code cleaner and more maintainable.

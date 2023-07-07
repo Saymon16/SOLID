@@ -1,0 +1,1 @@
+"Move Function" is a refactoring method that is used when a function is better placed in a different class. It is often used when a function is accessing the data of another object more than the data of its own object, suggesting that it may belong to a different class.

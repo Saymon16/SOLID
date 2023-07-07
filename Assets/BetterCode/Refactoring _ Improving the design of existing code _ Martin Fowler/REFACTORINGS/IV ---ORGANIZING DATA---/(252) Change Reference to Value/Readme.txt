@@ -1,0 +1,1 @@
+The refactoring technique "Change Reference to Value" is used when we deal with objects that are treated as if they are immutable. In such cases, it may be easier to consider the object as a value rather than a reference.

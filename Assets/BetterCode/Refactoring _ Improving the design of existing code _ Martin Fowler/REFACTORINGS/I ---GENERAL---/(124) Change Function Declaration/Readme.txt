@@ -1,0 +1,1 @@
+"Change Function Declaration" is a common refactoring method that can help improve code readability and structure.

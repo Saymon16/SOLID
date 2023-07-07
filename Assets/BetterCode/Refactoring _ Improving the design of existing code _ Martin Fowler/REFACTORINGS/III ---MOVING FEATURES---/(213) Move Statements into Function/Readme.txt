@@ -1,0 +1,1 @@
+"Move Statements into Function" is a refactoring technique used when you find code duplication - the same few lines of code appearing in multiple places. Instead of having these duplicate lines, you can move them into a separate function and call that function in those places.

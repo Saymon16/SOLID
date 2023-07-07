@@ -1,0 +1,1 @@
+"Pull Up Constructor Body" is a refactoring method that is used when we have constructors in subclasses with similar code. To reduce code duplication, we can pull up the common constructor code to a superclass.

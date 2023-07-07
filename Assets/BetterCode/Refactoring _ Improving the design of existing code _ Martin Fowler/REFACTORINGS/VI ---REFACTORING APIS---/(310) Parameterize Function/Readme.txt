@@ -1,0 +1,1 @@
+"Parameterize Function" is a refactoring technique that involves adding a parameter to a function or method in place of a hard-coded value, a global variable, or a direct call to another function. This allows the function to be more flexible and reusable.

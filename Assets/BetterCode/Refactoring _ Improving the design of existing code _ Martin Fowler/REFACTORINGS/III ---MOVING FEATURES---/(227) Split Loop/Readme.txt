@@ -1,0 +1,1 @@
+The "Split Loop" refactoring technique is applied when a loop is performing more than one distinct operation. It can be useful for making code easier to understand, reducing the scope of variables, and making future refactorings easier.

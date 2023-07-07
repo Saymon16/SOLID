@@ -1,0 +1,1 @@
+"Slide Statements" is a refactoring technique where the location of certain statements in a code block is changed to improve clarity, reduce dependencies between statements, or prepare the code for further refactorings. This technique can be useful in simplifying complex functions and making the code easier to understand.

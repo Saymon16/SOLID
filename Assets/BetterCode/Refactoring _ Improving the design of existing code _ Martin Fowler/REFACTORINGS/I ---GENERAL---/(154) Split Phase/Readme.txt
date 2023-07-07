@@ -1,0 +1,3 @@
+"Split Phase" is a refactoring technique that is used when a method is doing more than one thing. This is contrary to the Single Responsibility Principle, which suggests that a function or method should do only one thing.
+
+When you have a method that's doing multiple things, it can often be more readable and maintainable to split it into multiple methods, each doing one thing. This not only makes the code easier to understand, but also makes it easier to test and debug, since you can test each phase separately.

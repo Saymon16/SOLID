@@ -1,0 +1,1 @@
+The "Replace Function with Command" refactoring technique involves transforming a function call into a separate object, known as a command. This technique is often used when you need to defer a method execution, or you need to add additional functionality like undo/redo or logging.

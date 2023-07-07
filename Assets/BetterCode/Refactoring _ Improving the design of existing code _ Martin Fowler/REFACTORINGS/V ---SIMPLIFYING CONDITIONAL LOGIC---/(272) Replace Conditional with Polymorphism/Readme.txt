@@ -1,0 +1,1 @@
+"Replace Conditional with Polymorphism" is a refactoring technique that involves replacing conditional code (like if-else or switch-case statements) with different subclasses that implement the same interface or inherit from the same base class.

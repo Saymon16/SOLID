@@ -1,0 +1,3 @@
+The "Remove Dead Code" refactoring technique is about removing parts of the code that are no longer used or necessary. Dead code can be any part of the code that does not affect the program's behavior, such as unused variables, parameters, methods, classes, or libraries.
+
+Removing dead code helps maintain the code's clarity and reduces the potential for confusion or misunderstanding about the code's purpose. It also reduces the maintenance burden and the chance of introducing bugs in the future.

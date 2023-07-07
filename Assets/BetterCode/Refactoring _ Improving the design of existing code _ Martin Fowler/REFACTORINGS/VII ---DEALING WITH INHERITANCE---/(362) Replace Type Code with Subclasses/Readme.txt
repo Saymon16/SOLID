@@ -1,0 +1,1 @@
+"Replace Type Code with Subclasses" is a refactoring method used when you have a class with a type code. Type code is a field that indicates different types of instances of a class. Instead of having one class handling different behaviors based on the type code, it's often better to create different subclasses for each type and let them handle their own behaviors.

@@ -1,0 +1,1 @@
+"Replace Parameter with Query" is a refactoring technique that replaces parameters in methods with methods to get the needed data. This helps in reducing the number of parameters and making the method calls simpler. However, it's essential to make sure that the method does not change the object's state.

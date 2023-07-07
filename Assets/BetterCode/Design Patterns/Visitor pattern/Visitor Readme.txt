@@ -1,0 +1,3 @@
+Provides a way to separate an algorithm from an object structure on which it operates. A practical result of this separation is the ability to add new operations to existing object structures without modifying those structures.
+
+Use case: Implementing game rules or logic that needs to be applied on different game objects. For example, a 'DamageVisitor' could apply damage to different character types, with the damage calculation varying depending on the character type.

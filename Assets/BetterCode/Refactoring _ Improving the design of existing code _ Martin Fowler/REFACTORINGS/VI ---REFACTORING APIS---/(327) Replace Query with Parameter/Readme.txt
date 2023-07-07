@@ -1,0 +1,1 @@
+The "Replace Query with Parameter" refactoring technique involves replacing a query made inside a function (a method that retrieves some data) with a parameter. This technique is useful when the function calls another function to get some data and you want to control where that data comes from.

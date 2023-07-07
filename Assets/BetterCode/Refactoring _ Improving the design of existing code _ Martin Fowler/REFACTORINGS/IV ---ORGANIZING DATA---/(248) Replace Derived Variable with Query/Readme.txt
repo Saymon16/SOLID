@@ -1,0 +1,1 @@
+"Replace Derived Variable with Query" is a refactoring technique used when you have a class field that is derived from other fields and is updated in several places in the code. The idea is to replace that derived variable with a method (or a property in C#) that computes the value when needed.

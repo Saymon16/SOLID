@@ -1,0 +1,1 @@
+The "Replace Subclass with Delegate" refactoring technique is used when you have subclasses that only differ in their methods or behaviors. In this case, you can replace these methods with delegate functions, eliminating the need for the subclass. This can make your code more flexible, allowing you to change behaviors dynamically at runtime.

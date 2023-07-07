@@ -1,0 +1,1 @@
+The "Separate Query from Modifier" refactoring method is about ensuring that methods that change the state of the system (modifiers) and methods that query the system (queries) are separate and do not overlap. This is especially helpful to prevent bugs when methods are called without the caller realizing they might be altering state.

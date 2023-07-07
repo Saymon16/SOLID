@@ -1,0 +1,1 @@
+The "Consolidate Conditional Expression" refactoring pattern involves combining multiple conditional checks into a single expression or method. This can make the code cleaner and easier to understand.

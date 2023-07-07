@@ -1,0 +1,1 @@
+"Remove Subclass" is a refactoring technique used when a subclass does not add any new behaviors or attributes compared to its superclass. In such a case, the subclass can be removed, and its instances can be replaced by instances of the superclass. This can make the code more straightforward and easier to understand and maintain.

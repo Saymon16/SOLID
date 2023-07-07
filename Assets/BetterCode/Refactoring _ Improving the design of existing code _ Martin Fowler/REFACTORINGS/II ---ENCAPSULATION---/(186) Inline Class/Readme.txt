@@ -1,0 +1,1 @@
+The "Inline Class" refactoring method is used when a class isn't doing enough to justify its existence, and its functionality can be moved to another class. This technique can be used to simplify the codebase by reducing the number of classes.

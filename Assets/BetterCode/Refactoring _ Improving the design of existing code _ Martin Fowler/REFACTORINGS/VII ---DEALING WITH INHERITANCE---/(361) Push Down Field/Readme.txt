@@ -1,0 +1,1 @@
+The "Push Down Field" refactoring technique is used when a field in a superclass is only used by certain subclasses. Instead of having the field in the superclass, you can "push it down" into the subclasses where it is needed. This can make the code easier to understand and maintain.

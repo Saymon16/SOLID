@@ -1,0 +1,1 @@
+"Remove Setting Method" is a refactoring technique that suggests to get rid of a setter method if it's used infrequently or it's possible to set the value of a field in the constructor.

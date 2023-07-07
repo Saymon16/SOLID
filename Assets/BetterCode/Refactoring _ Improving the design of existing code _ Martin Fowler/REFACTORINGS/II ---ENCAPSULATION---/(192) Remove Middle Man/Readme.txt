@@ -1,0 +1,1 @@
+"Remove Middle Man" is a refactoring method used when a class is doing too much delegation and it's easier to call the end object directly. This is the opposite of the "Hide Delegate" refactoring method.

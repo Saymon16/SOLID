@@ -1,0 +1,1 @@
+"Extract Class" is a refactoring technique used when a class is doing too much and violating the Single Responsibility Principle. This principle suggests that a class should have one and only one reason to change.

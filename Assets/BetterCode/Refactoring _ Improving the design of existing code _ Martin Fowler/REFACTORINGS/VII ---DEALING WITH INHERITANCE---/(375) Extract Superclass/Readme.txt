@@ -1,0 +1,1 @@
+The "Extract Superclass" refactoring technique is used when you have two classes with similar attributes and behaviors. In such cases, you can create a superclass that contains these common attributes and behaviors. This reduces code duplication and makes the code easier to understand and maintain.

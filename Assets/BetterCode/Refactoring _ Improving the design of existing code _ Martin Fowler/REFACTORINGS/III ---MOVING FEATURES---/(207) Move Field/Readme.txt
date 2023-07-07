@@ -1,0 +1,1 @@
+The "Move Field" refactoring method is used when a field is more used by another class than the class it currently resides in. By moving the field to the class where it's used most, the design can be cleaner and more efficient.

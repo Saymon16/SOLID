@@ -1,0 +1,1 @@
+"Introduce Parameter Object" is a refactoring technique used to group parameters that naturally go together into a single object. This can make the code more readable and manageable, especially when methods have a large number of parameters.

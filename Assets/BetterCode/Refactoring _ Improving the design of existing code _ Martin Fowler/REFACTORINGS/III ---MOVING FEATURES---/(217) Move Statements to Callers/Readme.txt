@@ -1,0 +1,1 @@
+"Move Statements to Callers" is a refactoring technique that involves taking a portion of a function and moving it to all of the function's callers. This technique can be useful when the moved section doesn't make sense in the context of the function or when it is only relevant for some of the function's callers.

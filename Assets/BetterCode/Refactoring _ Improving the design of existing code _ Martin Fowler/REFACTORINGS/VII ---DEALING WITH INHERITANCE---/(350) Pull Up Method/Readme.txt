@@ -1,0 +1,1 @@
+"Pull Up Method" is a refactoring technique used when code in two or more subclasses is identical or very similar. In such cases, the code can be "pulled up" into a superclass to eliminate duplication and improve maintainability.

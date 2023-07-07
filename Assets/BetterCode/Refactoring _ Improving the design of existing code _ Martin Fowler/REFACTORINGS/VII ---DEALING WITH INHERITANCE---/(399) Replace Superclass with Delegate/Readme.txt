@@ -1,0 +1,1 @@
+The "Replace Superclass with Delegate" refactoring technique is used when a subclass uses only part of a superclass’s interface or does not want to inherit data. In these cases, you can replace inheritance with delegation. Delegation is a way of making composition as powerful for reuse as inheritance.

@@ -1,0 +1,3 @@
+High-level modules should not depend on low-level modules. Both should depend on abstractions. Similarly, abstractions should not depend on details. Details should depend on abstractions.
+
+Use case: An InputHandler shouldn't depend on a PlayerController directly. Instead, it should depend on an IControllable interface, which the PlayerController implements. This way, the InputHandler can control anything that implements IControllable, and the PlayerController can be controlled by anything that knows how to use IControllable.

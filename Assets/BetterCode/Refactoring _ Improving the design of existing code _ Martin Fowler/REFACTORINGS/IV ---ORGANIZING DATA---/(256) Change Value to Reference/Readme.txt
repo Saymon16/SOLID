@@ -1,0 +1,1 @@
+The "Change Value to Reference" refactoring is the opposite of "Change Reference to Value". It's often used when multiple objects are logically the same but are represented by separate instances. It's also beneficial when the operation on the object needs to reflect across all its instances.

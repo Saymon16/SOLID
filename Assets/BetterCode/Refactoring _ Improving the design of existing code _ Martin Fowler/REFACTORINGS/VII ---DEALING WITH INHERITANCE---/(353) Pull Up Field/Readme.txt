@@ -1,0 +1,1 @@
+The "Pull Up Field" refactoring technique is used when you have the same field in several subclasses. Instead of duplicating the field, you can move it to a common superclass.

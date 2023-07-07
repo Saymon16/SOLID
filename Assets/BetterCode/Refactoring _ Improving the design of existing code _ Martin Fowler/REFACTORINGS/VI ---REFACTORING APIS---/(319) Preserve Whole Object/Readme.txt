@@ -1,0 +1,1 @@
+The "Preserve Whole Object" refactoring technique involves passing a whole object to a method instead of just its individual data items. It's a technique that can reduce the number of parameters a method takes and make it more intuitive to use.
